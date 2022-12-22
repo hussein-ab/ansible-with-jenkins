@@ -1,2 +1,2 @@
-worker1 ansible_host=ip-172-31-51-219
-worker2 ansible_host=ip-172-31-57-43
+worker1 ansible_host=ip-172-31-62-36
+worker2 ansible_host=ip-172-31-55-169
